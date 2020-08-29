@@ -3,3 +3,5 @@ A curated list of practical financial machine learning (FinML) tools and applica
 
 # Portfolio Construction
 ## Portfolio Selection and Optimisation
+
+[Measuring Risk](https://github.com/dilshod-bek/Portfolio) - Measuring Risk for Securities
