@@ -1,18 +1,19 @@
 
-# 1. Portfolio Construction and Analysis with Python
+# Investment Management with Python and Machine Learning
+## 1. Portfolio Construction and Analysis with Python
 
-## Fundamentals of risk and returns
+### Fundamentals of risk and returns
 
 * Fundamentals of Returns - Basics of Returns
 * Measures of Risk and Reward - Risk Adjusted Returns
 * Measuring Max Drawdown - Drawdown
 
-## Beyond the Gaussian case: Extreme risk estimates
+### Beyond the Gaussian case: Extreme risk estimates
 
 * Deviations from Normality
 * Estimating VaR - Semi Deviation, VaR, CVaR
 
-## Portfolio Optimization and The Efficient Frontier
+### Portfolio Optimization and The Efficient Frontier
 
 * Efficient Frontier
 * Asset Efficient Frontier
@@ -20,17 +21,17 @@
 * Locating the Maximum Sharpe Ratio Portfolio
 * Plotting EW and GMV on the Efficient Frontier
 
-## Diversification
+### Diversification
 
 * Limits of Diversification
 * CPPI and Drawdown Constraints
 
-## Monte Carlo Simulation
+### Monte Carlo Simulation
 
 * Random Walks and Monte Carlo Simulation
 * Interactive plots of Monte Carlo Simulation of CPPI and GBM
 
-## Asset-Liability Management
+### Asset-Liability Management
 
 * Present Values, Liabilities, and Funding Ratio
 * CIR Model and Cash vs. ZC bonds
@@ -39,7 +40,7 @@
 * Naive Risk Budgeting between the PSP & GHP
 * Dynamic Risk Budgeting between PSP & LHP
 
-# 2. Advanced Portfolio Construction and Analysis with Python
+## 2. Advanced Portfolio Construction and Analysis with Python
 
 * Foundations
 * Covariance Estimation
@@ -47,14 +48,14 @@
 * Risk Contribution and Risk Parity
 
 
-# 3. Python and Machine Learning for Asset Management
+## 3. Python and Machine Learning for Asset Management
 
 * Factor Models
 * Regime-based Investment Model
 * Forecasting Recessions with Machine Learning
 
 
-# 4. Python and Machine-Learning for Asset Management with Alternative Data Sets
+## 4. Python and Machine-Learning for Asset Management with Alternative Data Sets
 
 * Mapping Data with Folium
 * Testing Seasonality
@@ -77,7 +78,7 @@
 
 
 
-## Portfolio Selection and Optimization
+### Portfolio Selection and Optimization
 
 [Measuring Risk](https://github.com/dilshodfintech/data-science) - Measuring Risk for Securities
 
