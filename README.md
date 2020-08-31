@@ -1,5 +1,5 @@
 
-# Portfolio Construction and Analysis
+# Portfolio Construction and Analysis with Python
 
 ## Fundamentals of risk and returns
 
@@ -54,7 +54,7 @@ Naive Risk Budgeting between the PSP & GHP
 Dynamic Risk Budgeting between PSP & LHP
 
 
-
+# Advanced Portfolio Construction and Analysis with Python
 
 
 
