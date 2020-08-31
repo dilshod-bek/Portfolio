@@ -56,6 +56,16 @@ Dynamic Risk Budgeting between PSP & LHP
 
 # Advanced Portfolio Construction and Analysis with Python
 
+Foundations
+
+Covariance Estimation
+
+Black Litterman
+
+Risk Contribution and Risk Parity
+
+
+# Python and Machine Learning for Asset Management
 
 
 
