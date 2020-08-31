@@ -1,5 +1,5 @@
 
-# Portfolio Construction and Analysis with Python
+# 1. Portfolio Construction and Analysis with Python
 
 ## Fundamentals of risk and returns
 
@@ -39,7 +39,7 @@
 * Naive Risk Budgeting between the PSP & GHP
 * Dynamic Risk Budgeting between PSP & LHP
 
-# Advanced Portfolio Construction and Analysis with Python
+# 2. Advanced Portfolio Construction and Analysis with Python
 
 * Foundations
 * Covariance Estimation
@@ -47,7 +47,7 @@
 * Risk Contribution and Risk Parity
 
 
-# Python and Machine Learning for Asset Management
+# 3. Python and Machine Learning for Asset Management
 
 
 
