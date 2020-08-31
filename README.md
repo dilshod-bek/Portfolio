@@ -4,7 +4,8 @@
 
 ### Fundamentals of risk and returns
 
-* Fundamentals of Returns - Basics of Returns
+* Basics of Returns
+* Simple Rate of Return vs. Log Return
 * Measures of Risk and Reward - Risk Adjusted Returns
 * Measuring Max Drawdown - Drawdown
 
