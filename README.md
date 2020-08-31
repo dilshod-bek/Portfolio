@@ -3,11 +3,9 @@
 
 ## Fundamentals of risk and returns
 
-Fundamentals of Returns - Basics of Returns
-
-Measures of Risk and Reward - Risk Adjusted Returns
-
-Measuring Max Drawdown - Drawdown
+* Fundamentals of Returns - Basics of Returns
+* Measures of Risk and Reward - Risk Adjusted Returns
+* Measuring Max Drawdown - Drawdown
 
 ## Beyond the Gaussian case: Extreme risk estimates
 
@@ -66,6 +64,9 @@ Risk Contribution and Risk Parity
 
 
 # Python and Machine Learning for Asset Management
+
+
+
 
 
 
