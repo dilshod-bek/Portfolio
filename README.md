@@ -7,7 +7,7 @@
 * Basics of Returns
 * Simple Rate of Return vs. Log Return
 * Measures of Risk and Reward - Risk Adjusted Returns
-* Measuring Max Drawdown - Drawdown
+* [Measuring Max Drawdown - Drawdown](https://github.com/dilshodfintech/data-science.git)
 
 ### Beyond the Gaussian case: Extreme risk estimates
 
